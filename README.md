@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋 there</h1>
 
-<p align="center">
-</p>
-
-## Skills
-
 - Languages
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
