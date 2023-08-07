@@ -22,8 +22,8 @@
   ![Redux](https://img.shields.io/badge/-Redux-05122A?&logo=Redux&logoColor=764ABC)
   ![jQuery](https://img.shields.io/badge/-jQuery-05122A?&logo=jQuery&logoColor=0769AD)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?&logo=TailwindCSS&logoColor=06B6D4)
-  ![MaterialUI](https://img.shields.io/badge/Material%20UI-05122A?logo=mui&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap%20UI-05122A?logo=bootstrap&logoColor=white)
+  ![MaterialUI](https://img.shields.io/badge/Material%20UI-05122A?logo=mui)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap%20UI-05122A?logo=bootstrap)
 
 - Backend
 
@@ -31,8 +31,8 @@
   ![Express](https://img.shields.io/badge/-Express-05122A?&logo=Express)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?&logo=PostgreSQL&logoColor=4169E1)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?&logo=MongoDB&logoColor=47A248)
-  ![Firebase](https://img.shields.io/badge/-firebase-05122A?&logo=firebase&logoColor=47A248)
-  ![Strapi](https://img.shields.io/badge/-strapi-05122A?&logo=strapi&logoColor=47A248)
+  ![Firebase](https://img.shields.io/badge/-firebase-05122A?&logo=firebase)
+  ![Strapi](https://img.shields.io/badge/-strapi-05122A?&logo=strapi)
 
 - Libraries and tools
   
