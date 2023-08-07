@@ -40,12 +40,9 @@
   ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
   ![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-05122A?style=flat&logo=DigitalOcean)
   ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)
+  ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?&logo=Socket.io)
   ![Leaflet](https://img.shields.io/badge/-Leaflet-05122A?&logo=Leaflet)
   ![Figma](https://img.shields.io/badge/-Figma-05122A?&logo=figma)
-
-## Github stats
-
-<img alt = "Top Language" src="https://readme-stats-alejandrogomeze.vercel.app/api?username=AlejandroGomezE&show_icons=true&hide_border=true">
