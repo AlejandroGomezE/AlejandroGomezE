@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, there</h1>
+<h1 align="center">Hi 👋 there</h1>
 
 <p align="center">
 </p>
@@ -38,4 +38,4 @@
 
 ## Github stats
 
-<img alt = "Top Language" src="https://readme-stats-alejandrogomeze.vercel.app/api/top-langs/?username=AlejandroGomezE&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+<img alt = "Top Language" src="https://readme-stats-alejandrogomeze.vercel.app/api/top-langs/?username=AlejandroGomezE&show_icons=true&hide_border=true">
