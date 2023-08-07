@@ -30,10 +30,11 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?&logo=MongoDB&logoColor=47A248)
 
 - Libraries and tools
+  
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?&logo=Socket.io)
-  ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+  ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white)
 
 ## Github stats
 
