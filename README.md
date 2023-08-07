@@ -34,8 +34,8 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?&logo=Socket.io)
-  ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white)
+  ![MaterialUI](https://img.shields.io/badge/Material%20UI-05122A?logo=mui&logoColor=white)
 
 ## Github stats
 
-<img alt = "Top Language" src="https://readme-stats-3aumzymzx-alejandrogomeze.vercel.app/api/top-langs/?username=alejandrogomeze&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+<img alt = "Top Language" src="https://readme-stats-alejandrogomeze.vercel.app/api/top-langs/?username=AlejandroGomezE&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
